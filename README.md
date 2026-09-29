@@ -1,23 +1,89 @@
 # Hi, I'm Pham Van Giang 👋
 
-I'm currently learning and exploring **Artificial Intelligence (AI)** and **Data Science**.
+🎓 I'm an **AI Engineer** passionate about building practical AI applications and exploring **Machine Learning, Deep Learning, NLP, Computer Vision, and MLOps**.
 
-- 🔭 I’m focused on Machine Learning, Deep Learning, and Big Data processing.
-- 🌱 Improving my skills in Python programming, data analysis, and AI algorithms.
-- 💬 Always open to discussing and collaborating on AI and Data Science projects.
-- 📫 Feel free to reach me at: phamgiang1572005@gmail.com
----
+### 🚀 About Me
 
-## Some of my skills
-- Python, Pandas, NumPy, Scikit-learn
-- TensorFlow, PyTorch
-- Machine Learning
-- Data Visualization (Matplotlib, Seaborn)
-- SQL and Big Data handling
+* 🔭 Currently working on **AI/ML projects**, from model development to deployment.
+* 🧠 Interested in **Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI**.
+* 🛠️ Learning and practicing **Python, PyTorch, TensorFlow, LangChain, LangGraph, FastAPI, Docker, and CI/CD**.
+* 📊 Experienced with **data processing, model training, evaluation, and experimentation**.
+* ⚙️ Exploring **MLOps and DevOps** to build reliable and production-ready AI systems.
+* 🤝 Open to **AI/ML projects, research, collaboration, and new opportunities**.
+* 📫 Reach me at **[phamgiang1572005@gmail.com](mailto:phamgiang1572005@gmail.com)**
 
 ---
 
-Thanks for visiting my profile!
+## 🧰 Tech Stack
+
+### Programming & Data
+
+* Python
+* SQL
+* NumPy
+* Pandas
+* Scikit-learn
+* Matplotlib / Seaborn
+
+### AI & Machine Learning
+
+* Machine Learning
+* Deep Learning
+* PyTorch
+* TensorFlow
+* NLP
+* Computer Vision
+* Generative AI
+* LLM / RAG
+
+### AI Engineering
+
+* FastAPI
+* LangChain
+* LangGraph
+* Hugging Face
+* REST APIs
+
+### DevOps & MLOps
+
+* Git / GitHub
+* Docker
+* GitHub Actions
+* Linux
+* MLflow
+* DVC
+* CI/CD
+
+---
+
+## 🔬 Areas I'm Exploring
+
+* 🎙️ **Speech & Audio AI**
+* 💬 **Natural Language Processing**
+* 👁️ **Computer Vision**
+* 🤖 **LLM & AI Agents**
+* 📚 **RAG Systems**
+* ⚙️ **MLOps & AI Deployment**
+* ☁️ **Cloud & AI Infrastructure**
+
+---
+
+## 📌 Featured Projects
+
+I'm continuously building projects to improve my skills in **AI Engineering, Machine Learning, and MLOps**.
+
+> 🚧 More projects and experiments are coming soon!
+
+---
+
+## 📈 My Goal
+
+> **Build AI systems that are not only accurate, but also scalable, deployable, and useful in real-world applications.**
+
+---
+
+Thanks for visiting my profile! ⭐
+Feel free to explore my repositories and connect with me.
 
 
 
